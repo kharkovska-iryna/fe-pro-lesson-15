@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1200px;
+    font-size: 25px; 
+}
+
+.form {
+    margin: 40px;
+}
+
+.input {
+    font-size: 18px;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+.select {
+    font-size: 18px;
+    padding: 5px 5px;
+}
+
+.out-block {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.btn {
+    cursor: pointer;
+    font-size: 18px;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
